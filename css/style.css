@@ -1,7 +1,6 @@
 /* General classes for page */
 
 body {
-  background-image: url("../images/grid.jpg");
   font-family: 'Open Sans';
 }
 
@@ -35,9 +34,9 @@ body {
 
 .wrapper {
   background-image: url('../images/background/background.jpg');
-  height: 650px;
+  height: 800px;
   background-size: cover;
-  padding-top: 150px;
+  padding-top: 300px;
   text-align: center;
   color: white;
 }
